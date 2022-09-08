@@ -1,2 +1,6 @@
 queue:
   size: 10
+producers:
+  max: 3
+consumers:
+  max: 3
